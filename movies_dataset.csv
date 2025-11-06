@@ -1,0 +1,824 @@
+title,type,genre,year,rating,actors,overview
+Dangal,Movie,Crime,2019,7.6,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Narcos,Series,Sci-Fi,2019,6.4,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+The Witcher,Series,Fantasy,2004,8.4,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Fight Club,Movie,Comedy,1992,9.5,"Ranbir Kapoor, Alia Bhatt",A comedy story featuring Ranbir Kapoor.
+Dangal,Movie,Drama,1987,8.2,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+War,Movie,Romance,2003,6.4,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Doctor Strange,Movie,Comedy,1984,8.7,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Dune,Movie,Crime,2004,6.6,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Friends,Series,Biography,2014,7.2,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Krrish,Movie,Horror,2016,6.1,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Dune,Movie,Sci-Fi,2025,8.9,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Narcos,Series,Romance,2022,7.2,"Nawazuddin Siddiqui, Saif Ali Khan",A romance story featuring Nawazuddin Siddiqui.
+Game of Thrones,Series,Biography,1994,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Forrest Gump,Movie,Drama,2001,6.4,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+Money Heist,Series,Crime,1997,8.6,"Aamir Khan, Kareena Kapoor",A crime story featuring Aamir Khan.
+Black Panther,Movie,Action,2012,9.5,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Peaky Blinders,Series,Biography,2006,7.8,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Stranger Things,Series,Fantasy,1992,6.1,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Mirzapur,Series,Crime,2013,7.8,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+Chak De India,Movie,Romance,1985,8.4,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Sacred Games,Series,Mystery,2009,9.2,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+Swades,Movie,Sci-Fi,1994,8.2,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Dil Chahta Hai,Movie,Adventure,2020,8.6,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Swades,Movie,Horror,2002,6.5,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Mirzapur,Series,Romance,2002,6.7,"Nawazuddin Siddiqui, Saif Ali Khan",A romance story featuring Nawazuddin Siddiqui.
+The Boys,Series,Fantasy,2014,6.7,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Stranger Things,Series,Crime,2011,8.9,"Aamir Khan, Kareena Kapoor",A crime story featuring Aamir Khan.
+Money Heist,Series,Horror,1991,6.3,"Nawazuddin Siddiqui, Saif Ali Khan",A horror story featuring Nawazuddin Siddiqui.
+Andhadhun,Movie,Sci-Fi,2019,8.1,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Black Panther,Movie,Mystery,2010,8.4,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Drishyam,Movie,Sci-Fi,2013,8.7,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Spider-Man,Movie,Thriller,2011,6.5,"Hrithik Roshan, Tiger Shroff",A thriller story featuring Hrithik Roshan.
+The Boys,Series,Romance,2022,8.5,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Titanic,Movie,Sci-Fi,2024,7.2,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Bhaag Milkha Bhaag,Movie,Mystery,2004,6.4,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Queen,Movie,Drama,1980,6.7,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+Breaking Bad,Series,Action,2018,7.9,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Mirzapur,Series,Horror,2009,6.6,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+Kabir Singh,Movie,Thriller,1982,8.1,"Millie Bobby Brown, David Harbour",A thriller story featuring Millie Bobby Brown.
+War,Movie,Adventure,2012,7.2,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Fight Club,Movie,Sci-Fi,2019,7.6,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Dune,Movie,Fantasy,1989,7.1,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Swades,Movie,Sci-Fi,2000,6.9,"Aamir Khan, Kareena Kapoor",A sci-fi story featuring Aamir Khan.
+The Matrix,Movie,Horror,2011,6.0,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Doctor Strange,Movie,Biography,2000,6.9,"Hrithik Roshan, Tiger Shroff",A biography story featuring Hrithik Roshan.
+Titanic,Movie,Action,2007,8.8,"Bryan Cranston, Aaron Paul",A action story featuring Bryan Cranston.
+Zindagi Na Milegi Dobara,Movie,Action,2008,8.5,"Robert Downey Jr., Chris Evans",A action story featuring Robert Downey Jr..
+The Godfather,Movie,Mystery,1983,7.4,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Inception,Movie,Thriller,2003,6.8,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+Bandish Bandits,Series,Fantasy,2015,8.5,"Robert Downey Jr., Chris Evans",A fantasy story featuring Robert Downey Jr..
+Spider-Man,Movie,Comedy,2017,8.0,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Forrest Gump,Movie,Romance,1992,9.5,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+The Office,Series,Mystery,1994,8.4,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Chak De India,Movie,Fantasy,1981,8.2,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Andhadhun,Movie,Horror,1986,9.3,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+3 Idiots,Movie,Action,1993,7.6,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+Black Panther,Movie,Adventure,2009,7.6,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Swades,Movie,Adventure,2025,7.1,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Gladiator,Movie,Sci-Fi,2009,8.3,"Bryan Cranston, Aaron Paul",A sci-fi story featuring Bryan Cranston.
+Stranger Things,Series,Horror,2024,8.9,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+Dune,Movie,Mystery,2015,8.1,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Article 15,Movie,Mystery,2022,9.3,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Dune,Movie,Thriller,2022,8.9,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Oppenheimer,Movie,Sci-Fi,1995,7.1,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+House of the Dragon,Series,Horror,2020,6.6,"Christian Bale, Anne Hathaway",A horror story featuring Christian Bale.
+Dil Chahta Hai,Movie,Crime,1985,8.9,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Taare Zameen Par,Movie,Thriller,2006,8.4,"Hrithik Roshan, Tiger Shroff",A thriller story featuring Hrithik Roshan.
+Mirzapur,Series,Adventure,2010,8.0,"Nawazuddin Siddiqui, Saif Ali Khan",A adventure story featuring Nawazuddin Siddiqui.
+The Dark Knight,Movie,Drama,2007,7.3,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Avatar,Movie,Fantasy,2009,7.6,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Shershaah,Movie,Comedy,1995,8.9,"Millie Bobby Brown, David Harbour",A comedy story featuring Millie Bobby Brown.
+House of the Dragon,Series,Horror,1983,8.2,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+The Family Man,Series,Thriller,2000,8.2,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+3 Idiots,Movie,Romance,2024,8.4,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+The Godfather,Movie,Thriller,1991,7.1,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Article 15,Movie,Crime,2007,9.4,"Aamir Khan, Kareena Kapoor",A crime story featuring Aamir Khan.
+The Batman,Movie,Comedy,1993,8.2,"Millie Bobby Brown, David Harbour",A comedy story featuring Millie Bobby Brown.
+The Boys,Series,Thriller,2016,7.6,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Pathaan,Movie,Mystery,2010,6.6,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Oppenheimer,Movie,Thriller,2000,7.4,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+Black Panther,Movie,Romance,2006,7.5,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+Joker,Movie,Biography,1995,8.6,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Gully Boy,Movie,Biography,1996,6.3,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+The Godfather,Movie,Crime,2004,9.0,"Bryan Cranston, Aaron Paul",A crime story featuring Bryan Cranston.
+The Family Man,Series,Thriller,1999,8.5,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+The Witcher,Series,Thriller,1997,8.3,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+The Matrix,Movie,Drama,1989,7.3,"Millie Bobby Brown, David Harbour",A drama story featuring Millie Bobby Brown.
+Titanic,Movie,Drama,2022,7.6,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Gully Boy,Movie,Mystery,2000,7.1,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+Bandish Bandits,Series,Thriller,2008,7.5,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+The Godfather,Movie,Action,2011,7.2,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Chak De India,Movie,Sci-Fi,2008,8.4,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+Taare Zameen Par,Movie,Drama,1997,8.2,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+The Matrix,Movie,Mystery,2004,9.0,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Taare Zameen Par,Movie,Comedy,2012,9.4,"Nawazuddin Siddiqui, Saif Ali Khan",A comedy story featuring Nawazuddin Siddiqui.
+Vikings,Series,Comedy,2001,8.7,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Zindagi Na Milegi Dobara,Movie,Sci-Fi,2004,6.6,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+The Crown,Series,Fantasy,2018,6.3,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Shershaah,Movie,Thriller,1998,7.7,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Bhaag Milkha Bhaag,Movie,Horror,1982,6.6,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+Sacred Games,Series,Horror,1984,6.4,"Ranbir Kapoor, Alia Bhatt",A horror story featuring Ranbir Kapoor.
+Narcos,Series,Adventure,2001,6.8,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+Avatar,Movie,Horror,1986,8.5,"Nawazuddin Siddiqui, Saif Ali Khan",A horror story featuring Nawazuddin Siddiqui.
+Mirzapur,Series,Drama,2005,6.3,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Money Heist,Series,Biography,1994,9.3,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Forrest Gump,Movie,Crime,1985,7.9,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+Breaking Bad,Series,Biography,1983,7.0,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Lagaan,Movie,Sci-Fi,2010,8.3,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Queen,Movie,Action,1992,7.0,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+Interstellar,Movie,Action,2024,7.5,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Game of Thrones,Series,Crime,1989,9.0,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+3 Idiots,Movie,Fantasy,2023,9.4,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Spider-Man,Movie,Mystery,2016,6.9,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+The Dark Knight,Movie,Fantasy,2001,6.7,"Nawazuddin Siddiqui, Saif Ali Khan",A fantasy story featuring Nawazuddin Siddiqui.
+Lucifer,Series,Sci-Fi,2017,9.4,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Lagaan,Movie,Comedy,1989,8.7,"Leonardo DiCaprio, Tom Hardy",A comedy story featuring Leonardo DiCaprio.
+Fight Club,Movie,Horror,1985,7.5,"Christian Bale, Anne Hathaway",A horror story featuring Christian Bale.
+Joker,Movie,Mystery,2017,6.2,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Vikings,Series,Drama,2011,7.7,"Millie Bobby Brown, David Harbour",A drama story featuring Millie Bobby Brown.
+Shershaah,Movie,Romance,2002,6.9,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Dark,Series,Fantasy,1985,6.4,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Taare Zameen Par,Movie,Sci-Fi,2007,6.0,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Bhaag Milkha Bhaag,Movie,Fantasy,1994,8.4,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Dark,Series,Biography,2004,9.3,"Christian Bale, Anne Hathaway",A biography story featuring Christian Bale.
+Interstellar,Movie,Crime,1981,6.2,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Shershaah,Movie,Biography,1987,7.8,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Avatar,Movie,Crime,1980,8.2,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+The Witcher,Series,Crime,1983,8.8,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Avengers: Endgame,Movie,Biography,1988,6.8,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+The Dark Knight,Movie,Mystery,2002,6.9,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Black Panther,Movie,Biography,2001,6.1,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Queen,Movie,Biography,1990,7.0,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Andhadhun,Movie,Fantasy,2020,8.5,"Nawazuddin Siddiqui, Saif Ali Khan",A fantasy story featuring Nawazuddin Siddiqui.
+Forrest Gump,Movie,Thriller,2014,7.2,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Gladiator,Movie,Biography,2010,7.8,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Money Heist,Series,Comedy,1983,7.8,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Money Heist,Series,Thriller,2010,6.6,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Article 15,Movie,Thriller,1982,6.6,"Millie Bobby Brown, David Harbour",A thriller story featuring Millie Bobby Brown.
+Peaky Blinders,Series,Drama,2017,8.0,"Bryan Cranston, Aaron Paul",A drama story featuring Bryan Cranston.
+Bhaag Milkha Bhaag,Movie,Biography,2000,6.4,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Dark,Series,Comedy,1981,6.2,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Vikings,Series,Romance,2016,7.3,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+Sacred Games,Series,Thriller,2025,6.5,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Andhadhun,Movie,Sci-Fi,2002,7.0,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+Lucifer,Series,Drama,1991,8.8,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+The Witcher,Series,Horror,2003,6.2,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Black Panther,Movie,Mystery,2008,6.6,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+The Boys,Series,Crime,2006,7.8,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+Zindagi Na Milegi Dobara,Movie,Mystery,1982,6.6,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+The Matrix,Movie,Adventure,1993,7.1,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+Oppenheimer,Movie,Biography,1981,6.8,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+The Witcher,Series,Romance,1992,9.3,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Dil Chahta Hai,Movie,Drama,1996,7.6,"Leonardo DiCaprio, Tom Hardy",A drama story featuring Leonardo DiCaprio.
+Taare Zameen Par,Movie,Drama,2016,8.6,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+The Family Man,Series,Adventure,2008,8.2,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+The Batman,Movie,Crime,2007,8.8,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+The Shawshank Redemption,Movie,Thriller,2014,6.9,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+The Crown,Series,Drama,2025,6.1,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+The Matrix,Movie,Romance,2014,7.8,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Gladiator,Movie,Adventure,1996,6.3,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+Breaking Bad,Series,Fantasy,1989,7.7,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Oppenheimer,Movie,Romance,2013,6.0,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+The Dark Knight,Movie,Action,1990,9.1,"Hrithik Roshan, Tiger Shroff",A action story featuring Hrithik Roshan.
+Vikings,Series,Horror,2014,6.0,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+Kabir Singh,Movie,Biography,2022,7.8,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+The Shawshank Redemption,Movie,Horror,2021,7.8,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Iron Man,Movie,Comedy,2006,6.9,"Nawazuddin Siddiqui, Saif Ali Khan",A comedy story featuring Nawazuddin Siddiqui.
+The Matrix,Movie,Sci-Fi,2006,9.3,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+Interstellar,Movie,Romance,2025,6.0,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Gladiator,Movie,Sci-Fi,2013,7.9,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Vikings,Series,Horror,2017,6.2,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Avatar,Movie,Crime,2015,7.1,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Zindagi Na Milegi Dobara,Movie,Romance,2005,8.0,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Bandish Bandits,Series,Fantasy,2022,6.6,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Chak De India,Movie,Comedy,2021,9.2,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Lagaan,Movie,Horror,1981,9.3,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Drishyam,Movie,Horror,2021,7.3,"Nawazuddin Siddiqui, Saif Ali Khan",A horror story featuring Nawazuddin Siddiqui.
+Swades,Movie,Crime,2013,6.7,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+The Dark Knight,Movie,Drama,2004,6.4,"Bryan Cranston, Aaron Paul",A drama story featuring Bryan Cranston.
+Zindagi Na Milegi Dobara,Movie,Crime,2022,8.8,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Doctor Strange,Movie,Action,1988,7.8,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+Sacred Games,Series,Biography,2018,8.5,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Krrish,Movie,Biography,1992,6.2,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Spider-Man,Movie,Adventure,2007,8.4,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+Gully Boy,Movie,Fantasy,2013,7.8,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+The Batman,Movie,Fantasy,2005,9.2,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Lucifer,Series,Thriller,1989,7.5,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+The Shawshank Redemption,Movie,Adventure,1984,6.4,"Nawazuddin Siddiqui, Saif Ali Khan",A adventure story featuring Nawazuddin Siddiqui.
+Sacred Games,Series,Romance,2014,8.9,"Hrithik Roshan, Tiger Shroff",A romance story featuring Hrithik Roshan.
+Lagaan,Movie,Fantasy,2003,9.2,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Black Panther,Movie,Fantasy,2013,7.5,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Wednesday,Series,Thriller,2021,9.1,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+The Crown,Series,Biography,2008,6.8,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Interstellar,Movie,Sci-Fi,2020,9.2,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Fight Club,Movie,Mystery,1986,7.8,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Spider-Man,Movie,Thriller,1985,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Titanic,Movie,Adventure,1997,8.6,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Doctor Strange,Movie,Crime,1990,6.7,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+The Boys,Series,Romance,2010,7.2,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+Black Panther,Movie,Biography,1998,9.1,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+The Boys,Series,Sci-Fi,1986,9.3,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+3 Idiots,Movie,Drama,1985,7.8,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+Article 15,Movie,Fantasy,2009,6.2,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+The Batman,Movie,Sci-Fi,2001,7.6,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Zindagi Na Milegi Dobara,Movie,Thriller,2009,7.4,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+The Dark Knight,Movie,Fantasy,2009,8.7,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+The Crown,Series,Mystery,2001,8.4,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Joker,Movie,Horror,2008,9.4,"Ranbir Kapoor, Alia Bhatt",A horror story featuring Ranbir Kapoor.
+Chak De India,Movie,Thriller,1995,9.1,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Swades,Movie,Thriller,2007,8.0,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Black Panther,Movie,Mystery,2011,8.4,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Joker,Movie,Fantasy,2022,8.9,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Forrest Gump,Movie,Thriller,1991,6.6,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Taare Zameen Par,Movie,Action,2002,6.9,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Dangal,Movie,Romance,1996,8.4,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Pathaan,Movie,Comedy,1989,8.8,"Leonardo DiCaprio, Tom Hardy",A comedy story featuring Leonardo DiCaprio.
+Chak De India,Movie,Adventure,1983,8.2,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Iron Man,Movie,Horror,2014,7.0,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+Sacred Games,Series,Thriller,1986,8.1,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+Sacred Games,Series,Adventure,1980,8.5,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+Kabir Singh,Movie,Mystery,1993,9.3,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Joker,Movie,Fantasy,1999,7.2,"Robert Downey Jr., Chris Evans",A fantasy story featuring Robert Downey Jr..
+Vikings,Series,Sci-Fi,2004,7.6,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+The Batman,Movie,Fantasy,1991,7.0,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Sacred Games,Series,Sci-Fi,1981,9.1,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Black Panther,Movie,Sci-Fi,1986,7.6,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Vikings,Series,Adventure,1981,9.4,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+The Office,Series,Thriller,2005,8.9,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+The Boys,Series,Mystery,1981,6.5,"Nawazuddin Siddiqui, Saif Ali Khan",A mystery story featuring Nawazuddin Siddiqui.
+Gully Boy,Movie,Action,2018,6.2,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Joker,Movie,Horror,1994,9.1,"Shah Rukh Khan, Deepika Padukone",A horror story featuring Shah Rukh Khan.
+Narcos,Series,Action,1986,7.0,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+3 Idiots,Movie,Horror,2019,9.2,"Ranbir Kapoor, Alia Bhatt",A horror story featuring Ranbir Kapoor.
+The Batman,Movie,Adventure,2016,9.2,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+The Family Man,Series,Crime,1987,7.0,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+3 Idiots,Movie,Fantasy,2014,6.1,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+The Shawshank Redemption,Movie,Action,1992,6.2,"Nawazuddin Siddiqui, Saif Ali Khan",A action story featuring Nawazuddin Siddiqui.
+Narcos,Series,Mystery,1990,7.8,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Forrest Gump,Movie,Drama,1982,7.9,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+Interstellar,Movie,Horror,2013,8.4,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+The Dark Knight,Movie,Mystery,2000,7.0,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+Sacred Games,Series,Fantasy,2000,6.8,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+Dune,Movie,Adventure,1993,6.5,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Gully Boy,Movie,Romance,1993,7.8,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+Oppenheimer,Movie,Drama,2006,8.5,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+Peaky Blinders,Series,Sci-Fi,2020,8.9,"Aamir Khan, Kareena Kapoor",A sci-fi story featuring Aamir Khan.
+Shershaah,Movie,Adventure,2001,7.7,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Chak De India,Movie,Fantasy,1997,9.4,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+PK,Movie,Sci-Fi,1987,7.7,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+The Witcher,Series,Thriller,1987,8.0,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+Dangal,Movie,Drama,2025,8.5,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+Wednesday,Series,Biography,1992,9.3,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+Queen,Movie,Adventure,2001,7.6,"Christian Bale, Anne Hathaway",A adventure story featuring Christian Bale.
+Taare Zameen Par,Movie,Romance,1999,6.5,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Gully Boy,Movie,Sci-Fi,1989,8.5,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Iron Man,Movie,Sci-Fi,1982,7.2,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Mirzapur,Series,Crime,1985,6.2,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+Avatar,Movie,Romance,1992,6.7,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Fight Club,Movie,Sci-Fi,2016,6.8,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Lucifer,Series,Adventure,1985,7.2,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+Mirzapur,Series,Fantasy,1984,6.3,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+Spider-Man,Movie,Sci-Fi,1997,7.6,"Aamir Khan, Kareena Kapoor",A sci-fi story featuring Aamir Khan.
+Friends,Series,Horror,2019,9.3,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+The Witcher,Series,Romance,1986,9.4,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Spider-Man,Movie,Horror,1984,6.3,"Shah Rukh Khan, Deepika Padukone",A horror story featuring Shah Rukh Khan.
+Stranger Things,Series,Mystery,2000,9.4,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+Mirzapur,Series,Adventure,2017,8.0,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+Friends,Series,Fantasy,2013,9.4,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+3 Idiots,Movie,Thriller,1981,6.5,"Millie Bobby Brown, David Harbour",A thriller story featuring Millie Bobby Brown.
+Lucifer,Series,Thriller,2024,8.8,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Inception,Movie,Crime,2008,7.7,"Bryan Cranston, Aaron Paul",A crime story featuring Bryan Cranston.
+The Dark Knight,Movie,Adventure,1999,8.1,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Game of Thrones,Series,Romance,2003,7.6,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Zindagi Na Milegi Dobara,Movie,Fantasy,2013,8.5,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Friends,Series,Mystery,1981,8.8,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Black Panther,Movie,Action,2002,6.2,"Millie Bobby Brown, David Harbour",A action story featuring Millie Bobby Brown.
+Gladiator,Movie,Drama,2003,8.7,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+War,Movie,Horror,1989,8.3,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Stranger Things,Series,Mystery,2006,6.4,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+The Witcher,Series,Biography,2011,8.3,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Gladiator,Movie,Adventure,2023,8.8,"Nawazuddin Siddiqui, Saif Ali Khan",A adventure story featuring Nawazuddin Siddiqui.
+Forrest Gump,Movie,Drama,2000,7.0,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Oppenheimer,Movie,Sci-Fi,2024,8.1,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Gladiator,Movie,Comedy,2005,9.2,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+House of the Dragon,Series,Horror,2001,7.9,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+Black Panther,Movie,Romance,1981,7.6,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+Spider-Man,Movie,Biography,2023,9.3,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+Vikings,Series,Biography,2012,9.1,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+Shershaah,Movie,Thriller,2019,8.8,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Iron Man,Movie,Adventure,1998,8.1,"Christian Bale, Anne Hathaway",A adventure story featuring Christian Bale.
+Taare Zameen Par,Movie,Mystery,1992,8.2,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+The Crown,Series,Action,2003,6.4,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Friends,Series,Adventure,2016,6.7,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Kabir Singh,Movie,Fantasy,1992,7.7,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+PK,Movie,Fantasy,1997,8.9,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Peaky Blinders,Series,Drama,2013,9.1,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+Black Panther,Movie,Adventure,2023,9.0,"Nawazuddin Siddiqui, Saif Ali Khan",A adventure story featuring Nawazuddin Siddiqui.
+Interstellar,Movie,Drama,1986,7.1,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+The Batman,Movie,Biography,1996,8.7,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Drishyam,Movie,Crime,2019,7.3,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+Taare Zameen Par,Movie,Fantasy,1987,7.2,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Bhaag Milkha Bhaag,Movie,Romance,2021,7.5,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+The Family Man,Series,Drama,2007,8.2,"Nawazuddin Siddiqui, Saif Ali Khan",A drama story featuring Nawazuddin Siddiqui.
+The Dark Knight,Movie,Romance,2003,6.3,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Avengers: Endgame,Movie,Horror,1999,6.8,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+Iron Man,Movie,Drama,2025,8.3,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Peaky Blinders,Series,Action,1988,9.5,"Robert Downey Jr., Chris Evans",A action story featuring Robert Downey Jr..
+Dil Chahta Hai,Movie,Fantasy,1998,6.7,"Nawazuddin Siddiqui, Saif Ali Khan",A fantasy story featuring Nawazuddin Siddiqui.
+Krrish,Movie,Crime,1989,7.9,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Fight Club,Movie,Biography,2002,7.3,"Christian Bale, Anne Hathaway",A biography story featuring Christian Bale.
+Bhaag Milkha Bhaag,Movie,Adventure,1989,9.0,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Peaky Blinders,Series,Crime,1983,7.8,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+PK,Movie,Mystery,1994,6.7,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Narcos,Series,Thriller,2024,8.9,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Money Heist,Series,Adventure,2022,8.1,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+The Boys,Series,Romance,2007,9.4,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Drishyam,Movie,Romance,1991,9.3,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+Dil Chahta Hai,Movie,Comedy,2015,9.4,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Oppenheimer,Movie,Fantasy,1987,9.4,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+The Witcher,Series,Romance,2008,8.8,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+Breaking Bad,Series,Biography,2008,8.3,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Queen,Movie,Adventure,1984,9.3,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+Breaking Bad,Series,Crime,2023,6.3,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+The Crown,Series,Thriller,2023,6.1,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Game of Thrones,Series,Action,1987,7.1,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Sacred Games,Series,Mystery,1998,8.9,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Black Panther,Movie,Crime,1982,8.7,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Fight Club,Movie,Crime,1998,9.3,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Taare Zameen Par,Movie,Adventure,2009,8.6,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Lagaan,Movie,Romance,1992,7.4,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Drishyam,Movie,Adventure,1996,7.9,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+The Boys,Series,Action,2017,6.3,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Dune,Movie,Sci-Fi,1990,7.9,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Fight Club,Movie,Comedy,2022,9.2,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Wednesday,Series,Crime,1991,9.2,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+Friends,Series,Drama,1995,7.6,"Nawazuddin Siddiqui, Saif Ali Khan",A drama story featuring Nawazuddin Siddiqui.
+The Witcher,Series,Action,1995,8.1,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Dil Chahta Hai,Movie,Action,2016,8.9,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Swades,Movie,Drama,2014,6.8,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+The Dark Knight,Movie,Crime,1997,6.1,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Forrest Gump,Movie,Biography,1993,6.2,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+Lagaan,Movie,Adventure,1991,8.1,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+The Crown,Series,Drama,1997,6.7,"Millie Bobby Brown, David Harbour",A drama story featuring Millie Bobby Brown.
+Queen,Movie,Thriller,1991,6.2,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+The Witcher,Series,Horror,2006,6.6,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Wednesday,Series,Crime,2013,6.1,"Ranbir Kapoor, Alia Bhatt",A crime story featuring Ranbir Kapoor.
+Breaking Bad,Series,Horror,1984,6.0,"Shah Rukh Khan, Deepika Padukone",A horror story featuring Shah Rukh Khan.
+Stranger Things,Series,Adventure,1980,8.1,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Interstellar,Movie,Sci-Fi,2018,7.7,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Queen,Movie,Biography,2020,6.8,"Millie Bobby Brown, David Harbour",A biography story featuring Millie Bobby Brown.
+Taare Zameen Par,Movie,Sci-Fi,1995,7.1,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+Dune,Movie,Comedy,2016,7.5,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Krrish,Movie,Fantasy,2007,7.7,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Titanic,Movie,Horror,2005,8.1,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Dil Chahta Hai,Movie,Crime,1983,8.0,"Bryan Cranston, Aaron Paul",A crime story featuring Bryan Cranston.
+Narcos,Series,Mystery,1992,6.0,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Bandish Bandits,Series,Sci-Fi,2016,7.2,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Iron Man,Movie,Adventure,1981,6.4,"Christian Bale, Anne Hathaway",A adventure story featuring Christian Bale.
+Mirzapur,Series,Biography,1981,9.2,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+The Batman,Movie,Fantasy,2013,6.4,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+Spider-Man,Movie,Romance,1994,7.9,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+The Office,Series,Crime,1987,6.2,"Ranbir Kapoor, Alia Bhatt",A crime story featuring Ranbir Kapoor.
+Titanic,Movie,Romance,2021,7.1,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+Breaking Bad,Series,Sci-Fi,2021,8.5,"Aamir Khan, Kareena Kapoor",A sci-fi story featuring Aamir Khan.
+Andhadhun,Movie,Drama,2015,8.9,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Krrish,Movie,Action,2011,6.7,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Breaking Bad,Series,Adventure,2002,7.8,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+Dil Chahta Hai,Movie,Horror,2018,9.0,"Shah Rukh Khan, Deepika Padukone",A horror story featuring Shah Rukh Khan.
+Kabir Singh,Movie,Mystery,1986,7.1,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+The Family Man,Series,Fantasy,1985,7.9,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+The Family Man,Series,Mystery,2012,9.0,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+The Matrix,Movie,Romance,1994,9.3,"Nawazuddin Siddiqui, Saif Ali Khan",A romance story featuring Nawazuddin Siddiqui.
+The Boys,Series,Mystery,1995,9.1,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+The Dark Knight,Movie,Romance,2018,8.6,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Breaking Bad,Series,Thriller,2001,8.9,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Bhaag Milkha Bhaag,Movie,Biography,1987,6.5,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+Dil Chahta Hai,Movie,Fantasy,1990,6.7,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Pathaan,Movie,Mystery,1984,6.3,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Iron Man,Movie,Adventure,1990,9.4,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Gully Boy,Movie,Mystery,2014,6.8,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Drishyam,Movie,Comedy,2003,8.6,"Robert Downey Jr., Chris Evans",A comedy story featuring Robert Downey Jr..
+Bhaag Milkha Bhaag,Movie,Sci-Fi,2018,7.9,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Dangal,Movie,Crime,2006,6.9,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Joker,Movie,Adventure,1990,8.2,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+The Godfather,Movie,Sci-Fi,2012,8.5,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+Game of Thrones,Series,Adventure,2015,8.0,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+The Batman,Movie,Thriller,1983,6.8,"Millie Bobby Brown, David Harbour",A thriller story featuring Millie Bobby Brown.
+Avengers: Endgame,Movie,Fantasy,1986,7.6,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+The Shawshank Redemption,Movie,Crime,2018,9.1,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+The Shawshank Redemption,Movie,Adventure,2010,8.7,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+House of the Dragon,Series,Biography,1980,8.3,"Millie Bobby Brown, David Harbour",A biography story featuring Millie Bobby Brown.
+Lucifer,Series,Sci-Fi,1993,9.0,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Pathaan,Movie,Sci-Fi,1992,7.6,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Zindagi Na Milegi Dobara,Movie,Horror,2006,7.6,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+The Office,Series,Mystery,2000,6.3,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Dune,Movie,Crime,2008,7.9,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Avatar,Movie,Thriller,2004,8.0,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Taare Zameen Par,Movie,Adventure,2014,7.6,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+The Boys,Series,Drama,1992,8.7,"Aamir Khan, Kareena Kapoor",A drama story featuring Aamir Khan.
+The Batman,Movie,Comedy,1989,6.1,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Interstellar,Movie,Sci-Fi,2016,6.3,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+The Dark Knight,Movie,Thriller,1992,6.1,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+The Witcher,Series,Mystery,1981,6.3,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+The Shawshank Redemption,Movie,Action,2003,9.3,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+The Godfather,Movie,Biography,2007,8.6,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Sacred Games,Series,Drama,2022,6.5,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+The Witcher,Series,Mystery,2020,7.3,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Lucifer,Series,Drama,2010,6.1,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+Peaky Blinders,Series,Adventure,1998,8.3,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Inception,Movie,Mystery,2025,6.6,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+The Dark Knight,Movie,Thriller,1986,7.1,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Kabir Singh,Movie,Comedy,1996,9.3,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Taare Zameen Par,Movie,Horror,2001,8.0,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+The Shawshank Redemption,Movie,Crime,1987,8.0,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+Dune,Movie,Mystery,2024,9.4,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Game of Thrones,Series,Sci-Fi,2009,8.1,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Article 15,Movie,Sci-Fi,1996,8.2,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Kabir Singh,Movie,Crime,2018,6.8,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+The Office,Series,Thriller,2004,8.3,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Vikings,Series,Horror,1994,8.4,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Avatar,Movie,Romance,2007,8.1,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+Kabir Singh,Movie,Fantasy,1983,8.3,"Nawazuddin Siddiqui, Saif Ali Khan",A fantasy story featuring Nawazuddin Siddiqui.
+The Office,Series,Biography,2009,9.4,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+The Matrix,Movie,Crime,2005,8.1,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Lucifer,Series,Romance,2001,7.4,"Nawazuddin Siddiqui, Saif Ali Khan",A romance story featuring Nawazuddin Siddiqui.
+3 Idiots,Movie,Adventure,2015,6.2,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Joker,Movie,Fantasy,2020,8.3,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Joker,Movie,Biography,2012,7.0,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+Vikings,Series,Thriller,1998,9.2,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+Titanic,Movie,Thriller,1995,7.5,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Shershaah,Movie,Mystery,2004,6.4,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Inception,Movie,Adventure,2001,9.5,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+The Godfather,Movie,Action,1993,7.1,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+House of the Dragon,Series,Sci-Fi,2013,7.1,"Leonardo DiCaprio, Tom Hardy",A sci-fi story featuring Leonardo DiCaprio.
+Lucifer,Series,Sci-Fi,2015,6.2,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+Dangal,Movie,Horror,2007,7.9,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Queen,Movie,Crime,2010,9.1,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Stranger Things,Series,Action,2009,9.5,"Nawazuddin Siddiqui, Saif Ali Khan",A action story featuring Nawazuddin Siddiqui.
+The Shawshank Redemption,Movie,Drama,1989,8.2,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Game of Thrones,Series,Horror,1981,7.1,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Lucifer,Series,Action,2006,9.3,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Stranger Things,Series,Horror,2015,8.8,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+Chak De India,Movie,Sci-Fi,2023,8.7,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Bandish Bandits,Series,Biography,2003,7.9,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Lagaan,Movie,Action,2024,8.4,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Narcos,Series,Crime,2004,7.0,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Pathaan,Movie,Horror,2013,8.2,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Avengers: Endgame,Movie,Adventure,2000,9.3,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+Stranger Things,Series,Comedy,2023,7.6,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Kabir Singh,Movie,Horror,1994,9.4,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Stranger Things,Series,Fantasy,2020,6.7,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+Lagaan,Movie,Thriller,2023,8.7,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Zindagi Na Milegi Dobara,Movie,Fantasy,1998,6.5,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Dark,Series,Horror,2019,7.2,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+The Godfather,Movie,Sci-Fi,2018,7.0,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Bhaag Milkha Bhaag,Movie,Thriller,1984,8.5,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Kabir Singh,Movie,Drama,2012,6.3,"Leonardo DiCaprio, Tom Hardy",A drama story featuring Leonardo DiCaprio.
+Sacred Games,Series,Adventure,2008,6.4,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+The Office,Series,Fantasy,1983,7.2,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Black Panther,Movie,Thriller,2007,8.0,"Aamir Khan, Kareena Kapoor",A thriller story featuring Aamir Khan.
+Inception,Movie,Biography,1993,7.1,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Lagaan,Movie,Mystery,2016,7.0,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Joker,Movie,Romance,2011,8.5,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+Avatar,Movie,Adventure,1990,7.0,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+Iron Man,Movie,Mystery,2016,8.6,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Pathaan,Movie,Biography,1999,6.1,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+Kabir Singh,Movie,Adventure,1981,8.0,"Aamir Khan, Kareena Kapoor",A adventure story featuring Aamir Khan.
+Shershaah,Movie,Mystery,2005,6.4,"Robert Downey Jr., Chris Evans",A mystery story featuring Robert Downey Jr..
+The Family Man,Series,Romance,1992,7.8,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Bhaag Milkha Bhaag,Movie,Romance,1992,8.5,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Andhadhun,Movie,Sci-Fi,1985,6.8,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Drishyam,Movie,Horror,1992,6.1,"Aamir Khan, Kareena Kapoor",A horror story featuring Aamir Khan.
+Spider-Man,Movie,Comedy,2014,7.0,"Nawazuddin Siddiqui, Saif Ali Khan",A comedy story featuring Nawazuddin Siddiqui.
+House of the Dragon,Series,Thriller,2018,8.9,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+The Godfather,Movie,Fantasy,1984,8.7,"Hrithik Roshan, Tiger Shroff",A fantasy story featuring Hrithik Roshan.
+Queen,Movie,Mystery,2011,6.9,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Swades,Movie,Sci-Fi,1986,7.2,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+Wednesday,Series,Sci-Fi,1990,6.9,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Forrest Gump,Movie,Drama,2019,8.7,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+House of the Dragon,Series,Romance,2023,8.4,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+House of the Dragon,Series,Biography,2003,8.1,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Titanic,Movie,Horror,2012,6.1,"Nawazuddin Siddiqui, Saif Ali Khan",A horror story featuring Nawazuddin Siddiqui.
+Iron Man,Movie,Romance,1995,8.3,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Chak De India,Movie,Adventure,2000,6.6,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Iron Man,Movie,Adventure,2021,7.4,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+War,Movie,Adventure,2020,8.1,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Kabir Singh,Movie,Thriller,2008,7.7,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Vikings,Series,Romance,1997,7.3,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+Game of Thrones,Series,Drama,2013,6.1,"Nawazuddin Siddiqui, Saif Ali Khan",A drama story featuring Nawazuddin Siddiqui.
+Lucifer,Series,Mystery,1983,8.5,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Swades,Movie,Action,2003,7.4,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Taare Zameen Par,Movie,Biography,1986,8.1,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Breaking Bad,Series,Drama,1999,6.3,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+The Shawshank Redemption,Movie,Fantasy,2002,8.5,"Hrithik Roshan, Tiger Shroff",A fantasy story featuring Hrithik Roshan.
+The Office,Series,Adventure,2019,7.2,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Forrest Gump,Movie,Romance,1987,8.8,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Breaking Bad,Series,Thriller,1994,6.8,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Queen,Movie,Biography,2003,6.1,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Narcos,Series,Action,2003,6.8,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+Joker,Movie,Biography,1983,6.3,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+The Godfather,Movie,Biography,1981,8.3,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+The Batman,Movie,Crime,1999,9.3,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Friends,Series,Romance,2000,6.8,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Pathaan,Movie,Crime,1981,6.7,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Lucifer,Series,Crime,2023,7.3,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Gully Boy,Movie,Drama,2006,8.7,"Millie Bobby Brown, David Harbour",A drama story featuring Millie Bobby Brown.
+The Boys,Series,Action,2004,8.4,"Millie Bobby Brown, David Harbour",A action story featuring Millie Bobby Brown.
+The Batman,Movie,Drama,1982,6.9,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+PK,Movie,Mystery,1989,7.5,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Peaky Blinders,Series,Romance,1991,6.5,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Wednesday,Series,Action,1984,8.5,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+The Dark Knight,Movie,Mystery,1980,9.0,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Spider-Man,Movie,Crime,2006,7.0,"Bryan Cranston, Aaron Paul",A crime story featuring Bryan Cranston.
+Zindagi Na Milegi Dobara,Movie,Crime,2001,9.1,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Gladiator,Movie,Drama,2004,6.8,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Queen,Movie,Fantasy,2021,7.4,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Game of Thrones,Series,Biography,1995,6.0,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Titanic,Movie,Romance,2017,7.1,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Queen,Movie,Sci-Fi,2022,6.4,"Bryan Cranston, Aaron Paul",A sci-fi story featuring Bryan Cranston.
+Dangal,Movie,Horror,2021,8.5,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Pathaan,Movie,Fantasy,2011,7.1,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Dil Chahta Hai,Movie,Drama,2002,7.1,"Nawazuddin Siddiqui, Saif Ali Khan",A drama story featuring Nawazuddin Siddiqui.
+Peaky Blinders,Series,Sci-Fi,2015,6.3,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+The Witcher,Series,Biography,2023,6.5,"Christian Bale, Anne Hathaway",A biography story featuring Christian Bale.
+Friends,Series,Sci-Fi,2023,7.6,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Money Heist,Series,Comedy,2025,9.3,"Christian Bale, Anne Hathaway",A comedy story featuring Christian Bale.
+Queen,Movie,Mystery,1994,6.1,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Pathaan,Movie,Horror,2000,8.2,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Queen,Movie,Action,1983,7.8,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+The Boys,Series,Fantasy,2018,7.5,"Millie Bobby Brown, David Harbour",A fantasy story featuring Millie Bobby Brown.
+Andhadhun,Movie,Comedy,1994,6.6,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Oppenheimer,Movie,Biography,1992,6.0,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Drishyam,Movie,Biography,1999,9.3,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Titanic,Movie,Thriller,1981,8.6,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Queen,Movie,Sci-Fi,1993,7.2,"Aamir Khan, Kareena Kapoor",A sci-fi story featuring Aamir Khan.
+The Shawshank Redemption,Movie,Drama,2008,8.1,"Leonardo DiCaprio, Tom Hardy",A drama story featuring Leonardo DiCaprio.
+Shershaah,Movie,Biography,2011,6.4,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Swades,Movie,Comedy,1999,8.6,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+Breaking Bad,Series,Comedy,2003,6.3,"Ranbir Kapoor, Alia Bhatt",A comedy story featuring Ranbir Kapoor.
+Doctor Strange,Movie,Biography,1982,6.5,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+Pathaan,Movie,Thriller,2016,8.2,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Article 15,Movie,Crime,2019,6.6,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+The Witcher,Series,Biography,2005,8.0,"Hrithik Roshan, Tiger Shroff",A biography story featuring Hrithik Roshan.
+Andhadhun,Movie,Horror,1991,7.0,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+PK,Movie,Crime,1999,8.9,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Mirzapur,Series,Fantasy,2014,6.4,"Robert Downey Jr., Chris Evans",A fantasy story featuring Robert Downey Jr..
+Dark,Series,Crime,1988,8.8,"Leonardo DiCaprio, Tom Hardy",A crime story featuring Leonardo DiCaprio.
+Bandish Bandits,Series,Comedy,1982,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A comedy story featuring Nawazuddin Siddiqui.
+The Batman,Movie,Drama,2004,8.7,"Bryan Cranston, Aaron Paul",A drama story featuring Bryan Cranston.
+The Office,Series,Mystery,2015,7.2,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Drishyam,Movie,Horror,2010,6.9,"Ranbir Kapoor, Alia Bhatt",A horror story featuring Ranbir Kapoor.
+The Crown,Series,Romance,2000,6.5,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+The Crown,Series,Fantasy,2015,8.5,"Nawazuddin Siddiqui, Saif Ali Khan",A fantasy story featuring Nawazuddin Siddiqui.
+Gladiator,Movie,Comedy,1981,7.6,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Stranger Things,Series,Romance,1991,6.8,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Taare Zameen Par,Movie,Action,1994,6.5,"Bryan Cranston, Aaron Paul",A action story featuring Bryan Cranston.
+The Dark Knight,Movie,Sci-Fi,2010,7.1,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Inception,Movie,Romance,1996,8.0,"Nawazuddin Siddiqui, Saif Ali Khan",A romance story featuring Nawazuddin Siddiqui.
+Mirzapur,Series,Adventure,2007,7.6,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+Black Panther,Movie,Romance,2005,6.2,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+Avatar,Movie,Drama,2008,7.8,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Titanic,Movie,Comedy,2008,6.1,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Queen,Movie,Action,2025,6.0,"Nawazuddin Siddiqui, Saif Ali Khan",A action story featuring Nawazuddin Siddiqui.
+Shershaah,Movie,Sci-Fi,2022,6.1,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Spider-Man,Movie,Action,1981,9.0,"Bryan Cranston, Aaron Paul",A action story featuring Bryan Cranston.
+Friends,Series,Adventure,2018,8.9,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+Lucifer,Series,Drama,1981,8.9,"Millie Bobby Brown, David Harbour",A drama story featuring Millie Bobby Brown.
+Dark,Series,Adventure,2008,8.5,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Avatar,Movie,Sci-Fi,2020,8.0,"Millie Bobby Brown, David Harbour",A sci-fi story featuring Millie Bobby Brown.
+Lucifer,Series,Sci-Fi,2008,6.4,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Gully Boy,Movie,Action,2009,9.0,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+3 Idiots,Movie,Action,2020,6.7,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+The Boys,Series,Mystery,1983,6.7,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Sacred Games,Series,Thriller,1987,9.0,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Iron Man,Movie,Thriller,2024,6.1,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+The Godfather,Movie,Mystery,1989,6.9,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Titanic,Movie,Fantasy,1990,8.8,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+The Crown,Series,Adventure,1996,6.1,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+Swades,Movie,Adventure,1988,6.0,"Christian Bale, Anne Hathaway",A adventure story featuring Christian Bale.
+Swades,Movie,Biography,2018,6.1,"Hrithik Roshan, Tiger Shroff",A biography story featuring Hrithik Roshan.
+Swades,Movie,Mystery,2001,9.3,"Ranbir Kapoor, Alia Bhatt",A mystery story featuring Ranbir Kapoor.
+Money Heist,Series,Romance,1981,6.7,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Chak De India,Movie,Romance,2022,8.2,"Millie Bobby Brown, David Harbour",A romance story featuring Millie Bobby Brown.
+Taare Zameen Par,Movie,Comedy,1990,8.1,"Robert Downey Jr., Chris Evans",A comedy story featuring Robert Downey Jr..
+Oppenheimer,Movie,Horror,1985,9.2,"Robert Downey Jr., Chris Evans",A horror story featuring Robert Downey Jr..
+Fight Club,Movie,Mystery,1991,6.8,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+The Crown,Series,Horror,2006,7.7,"Christian Bale, Anne Hathaway",A horror story featuring Christian Bale.
+The Godfather,Movie,Drama,2019,8.8,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+Zindagi Na Milegi Dobara,Movie,Sci-Fi,1994,8.5,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Friends,Series,Thriller,1996,9.1,"Christian Bale, Anne Hathaway",A thriller story featuring Christian Bale.
+Wednesday,Series,Comedy,2000,6.4,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Avatar,Movie,Comedy,2006,9.3,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Gully Boy,Movie,Romance,1990,7.2,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+Friends,Series,Thriller,2020,6.1,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+The Family Man,Series,Fantasy,2006,6.3,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+Queen,Movie,Thriller,2002,6.9,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Joker,Movie,Fantasy,2019,6.4,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Lagaan,Movie,Fantasy,1999,8.8,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+The Godfather,Movie,Comedy,1999,7.8,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Forrest Gump,Movie,Biography,1986,7.1,"Millie Bobby Brown, David Harbour",A biography story featuring Millie Bobby Brown.
+War,Movie,Horror,1982,7.9,"Ranbir Kapoor, Alia Bhatt",A horror story featuring Ranbir Kapoor.
+Iron Man,Movie,Sci-Fi,2002,8.5,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Money Heist,Series,Drama,1999,9.0,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Kabir Singh,Movie,Crime,1987,6.7,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+Iron Man,Movie,Mystery,1983,9.0,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Dil Chahta Hai,Movie,Action,1987,7.3,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Forrest Gump,Movie,Thriller,2015,9.3,"Shah Rukh Khan, Deepika Padukone",A thriller story featuring Shah Rukh Khan.
+Black Panther,Movie,Biography,1999,6.6,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Friends,Series,Adventure,1991,9.2,"Shah Rukh Khan, Deepika Padukone",A adventure story featuring Shah Rukh Khan.
+Lucifer,Series,Mystery,2021,9.5,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Avatar,Movie,Sci-Fi,1984,9.0,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Pathaan,Movie,Horror,1997,9.2,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Oppenheimer,Movie,Drama,2022,7.3,"Leonardo DiCaprio, Tom Hardy",A drama story featuring Leonardo DiCaprio.
+Bandish Bandits,Series,Drama,2012,8.4,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Swades,Movie,Comedy,1993,7.7,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Inception,Movie,Fantasy,1989,8.4,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Andhadhun,Movie,Biography,1998,7.2,"Christian Bale, Anne Hathaway",A biography story featuring Christian Bale.
+War,Movie,Mystery,2010,6.6,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Swades,Movie,Romance,1984,9.2,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Sacred Games,Series,Comedy,1991,7.5,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Bandish Bandits,Series,Biography,1991,7.4,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Wednesday,Series,Sci-Fi,2020,8.3,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+Sacred Games,Series,Adventure,2002,7.4,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Joker,Movie,Action,2005,6.9,"Shah Rukh Khan, Deepika Padukone",A action story featuring Shah Rukh Khan.
+Dangal,Movie,Crime,2003,8.8,"Ranbir Kapoor, Alia Bhatt",A crime story featuring Ranbir Kapoor.
+Taare Zameen Par,Movie,Romance,1982,8.0,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Article 15,Movie,Thriller,2001,6.8,"Christian Bale, Anne Hathaway",A thriller story featuring Christian Bale.
+The Office,Series,Action,2008,9.3,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+War,Movie,Mystery,2013,6.3,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
+Inception,Movie,Thriller,2004,6.1,"Christian Bale, Anne Hathaway",A thriller story featuring Christian Bale.
+The Crown,Series,Adventure,1984,8.4,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+Avengers: Endgame,Movie,Thriller,1982,9.1,"Hrithik Roshan, Tiger Shroff",A thriller story featuring Hrithik Roshan.
+Inception,Movie,Comedy,2000,7.1,"Nawazuddin Siddiqui, Saif Ali Khan",A comedy story featuring Nawazuddin Siddiqui.
+Dark,Series,Horror,1980,7.9,"Aamir Khan, Kareena Kapoor",A horror story featuring Aamir Khan.
+Friends,Series,Comedy,1998,7.4,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Game of Thrones,Series,Mystery,2006,8.3,"Nawazuddin Siddiqui, Saif Ali Khan",A mystery story featuring Nawazuddin Siddiqui.
+Chak De India,Movie,Crime,2009,8.6,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Mirzapur,Series,Fantasy,1982,6.1,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Taare Zameen Par,Movie,Fantasy,2017,6.3,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+Peaky Blinders,Series,Sci-Fi,2018,7.3,"Robert Downey Jr., Chris Evans",A sci-fi story featuring Robert Downey Jr..
+Chak De India,Movie,Biography,1986,6.6,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+3 Idiots,Movie,Action,2011,8.8,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+Friends,Series,Fantasy,2003,9.3,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+Doctor Strange,Movie,Adventure,1991,6.1,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+Gladiator,Movie,Adventure,2012,7.7,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+Gladiator,Movie,Horror,1994,7.3,"Christian Bale, Anne Hathaway",A horror story featuring Christian Bale.
+Dangal,Movie,Fantasy,2010,7.7,"Hrithik Roshan, Tiger Shroff",A fantasy story featuring Hrithik Roshan.
+Avatar,Movie,Action,1999,6.2,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Avengers: Endgame,Movie,Thriller,1996,8.4,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Avatar,Movie,Action,1994,8.7,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+The Batman,Movie,Adventure,1980,7.5,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+The Crown,Series,Horror,1986,7.6,"Hrithik Roshan, Tiger Shroff",A horror story featuring Hrithik Roshan.
+Pathaan,Movie,Sci-Fi,2008,9.2,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Black Panther,Movie,Drama,2004,9.2,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+Mirzapur,Series,Crime,2024,9.3,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+Mirzapur,Series,Crime,1989,8.1,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+War,Movie,Biography,2008,8.6,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Interstellar,Movie,Biography,1999,7.0,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Avengers: Endgame,Movie,Drama,2005,9.4,"Christian Bale, Anne Hathaway",A drama story featuring Christian Bale.
+Shershaah,Movie,Biography,1983,8.7,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+House of the Dragon,Series,Comedy,2014,8.3,"Leonardo DiCaprio, Tom Hardy",A comedy story featuring Leonardo DiCaprio.
+Wednesday,Series,Sci-Fi,2003,8.6,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Zindagi Na Milegi Dobara,Movie,Fantasy,1988,7.4,"Ranbir Kapoor, Alia Bhatt",A fantasy story featuring Ranbir Kapoor.
+Interstellar,Movie,Fantasy,2011,9.2,"Robert Downey Jr., Chris Evans",A fantasy story featuring Robert Downey Jr..
+Narcos,Series,Fantasy,2021,8.9,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+Fight Club,Movie,Sci-Fi,1997,8.3,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+The Boys,Series,Biography,2008,6.0,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+The Family Man,Series,Comedy,1994,6.5,"Ranbir Kapoor, Alia Bhatt",A comedy story featuring Ranbir Kapoor.
+Stranger Things,Series,Adventure,1984,9.2,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+The Godfather,Movie,Biography,2025,6.5,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+Swades,Movie,Action,1982,9.1,"Bryan Cranston, Aaron Paul",A action story featuring Bryan Cranston.
+The Dark Knight,Movie,Drama,1981,9.5,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Article 15,Movie,Crime,2020,7.1,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Article 15,Movie,Biography,1989,8.8,"Aamir Khan, Kareena Kapoor",A biography story featuring Aamir Khan.
+Shershaah,Movie,Biography,1994,7.3,"Christian Bale, Anne Hathaway",A biography story featuring Christian Bale.
+The Matrix,Movie,Romance,1999,6.1,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+The Batman,Movie,Sci-Fi,1987,6.9,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+House of the Dragon,Series,Romance,1986,8.8,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Bandish Bandits,Series,Sci-Fi,1989,6.7,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Article 15,Movie,Action,2018,8.7,"Hrithik Roshan, Tiger Shroff",A action story featuring Hrithik Roshan.
+Gully Boy,Movie,Comedy,2011,9.0,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+The Crown,Series,Drama,2012,6.0,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Game of Thrones,Series,Sci-Fi,2005,6.7,"Ranbir Kapoor, Alia Bhatt",A sci-fi story featuring Ranbir Kapoor.
+Interstellar,Movie,Crime,1996,8.0,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+Dune,Movie,Action,2006,7.0,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+Avengers: Endgame,Movie,Action,1989,9.5,"Millie Bobby Brown, David Harbour",A action story featuring Millie Bobby Brown.
+The Dark Knight,Movie,Crime,2011,7.2,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+3 Idiots,Movie,Horror,1980,6.3,"Millie Bobby Brown, David Harbour",A horror story featuring Millie Bobby Brown.
+Black Panther,Movie,Adventure,2024,6.0,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Shershaah,Movie,Fantasy,1991,8.0,"Leonardo DiCaprio, Tom Hardy",A fantasy story featuring Leonardo DiCaprio.
+The Family Man,Series,Crime,2013,8.3,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Money Heist,Series,Action,2000,8.5,"Robert Downey Jr., Chris Evans",A action story featuring Robert Downey Jr..
+Kabir Singh,Movie,Sci-Fi,2002,8.6,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+The Matrix,Movie,Fantasy,1980,6.6,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Kabir Singh,Movie,Fantasy,1990,8.8,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Wednesday,Series,Romance,2014,6.9,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Wednesday,Series,Adventure,1993,8.1,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+Money Heist,Series,Crime,1986,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+Mirzapur,Series,Sci-Fi,2021,7.5,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+Gully Boy,Movie,Comedy,2010,6.5,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Joker,Movie,Action,2000,9.3,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+Avengers: Endgame,Movie,Romance,2020,7.0,"Ranbir Kapoor, Alia Bhatt",A romance story featuring Ranbir Kapoor.
+Joker,Movie,Crime,2007,7.7,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Lucifer,Series,Mystery,1982,7.6,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Mirzapur,Series,Romance,1999,8.1,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Dark,Series,Adventure,2003,7.9,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Peaky Blinders,Series,Fantasy,2009,7.0,"Robert Downey Jr., Chris Evans",A fantasy story featuring Robert Downey Jr..
+War,Movie,Biography,2015,9.0,"Shah Rukh Khan, Deepika Padukone",A biography story featuring Shah Rukh Khan.
+Avatar,Movie,Romance,1989,8.4,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Stranger Things,Series,Drama,1989,7.6,"Robert Downey Jr., Chris Evans",A drama story featuring Robert Downey Jr..
+House of the Dragon,Series,Horror,1998,8.8,"Bryan Cranston, Aaron Paul",A horror story featuring Bryan Cranston.
+Doctor Strange,Movie,Action,1987,6.1,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+Sacred Games,Series,Crime,1989,8.0,"Ranbir Kapoor, Alia Bhatt",A crime story featuring Ranbir Kapoor.
+Bandish Bandits,Series,Adventure,1993,6.7,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Gladiator,Movie,Adventure,2001,8.0,"Millie Bobby Brown, David Harbour",A adventure story featuring Millie Bobby Brown.
+The Shawshank Redemption,Movie,Fantasy,2011,6.6,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Sacred Games,Series,Biography,2019,8.2,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Drishyam,Movie,Biography,2018,8.6,"Bryan Cranston, Aaron Paul",A biography story featuring Bryan Cranston.
+Krrish,Movie,Romance,2002,6.9,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Doctor Strange,Movie,Comedy,2018,8.4,"Shah Rukh Khan, Deepika Padukone",A comedy story featuring Shah Rukh Khan.
+Bandish Bandits,Series,Romance,1994,8.1,"Christian Bale, Anne Hathaway",A romance story featuring Christian Bale.
+Avatar,Movie,Horror,2005,8.7,"Christian Bale, Anne Hathaway",A horror story featuring Christian Bale.
+Lagaan,Movie,Romance,2009,8.3,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Fight Club,Movie,Adventure,2010,6.5,"Ranbir Kapoor, Alia Bhatt",A adventure story featuring Ranbir Kapoor.
+The Family Man,Series,Thriller,2001,7.7,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+The Witcher,Series,Action,2016,8.0,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+PK,Movie,Horror,2015,7.0,"Shah Rukh Khan, Deepika Padukone",A horror story featuring Shah Rukh Khan.
+Chak De India,Movie,Action,1988,9.0,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+House of the Dragon,Series,Comedy,2000,8.5,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Friends,Series,Horror,2007,8.1,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+The Crown,Series,Crime,2004,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A crime story featuring Nawazuddin Siddiqui.
+Dangal,Movie,Adventure,1983,6.8,"Robert Downey Jr., Chris Evans",A adventure story featuring Robert Downey Jr..
+Wednesday,Series,Comedy,1988,9.1,"Ranbir Kapoor, Alia Bhatt",A comedy story featuring Ranbir Kapoor.
+The Boys,Series,Comedy,1984,9.1,"Leonardo DiCaprio, Tom Hardy",A comedy story featuring Leonardo DiCaprio.
+Joker,Movie,Fantasy,2003,8.9,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+Doctor Strange,Movie,Thriller,2025,8.8,"Nawazuddin Siddiqui, Saif Ali Khan",A thriller story featuring Nawazuddin Siddiqui.
+Game of Thrones,Series,Crime,1997,7.2,"Hrithik Roshan, Tiger Shroff",A crime story featuring Hrithik Roshan.
+The Boys,Series,Adventure,1996,6.7,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Drishyam,Movie,Adventure,2009,7.6,"Leonardo DiCaprio, Tom Hardy",A adventure story featuring Leonardo DiCaprio.
+Iron Man,Movie,Fantasy,1988,9.1,"Shah Rukh Khan, Deepika Padukone",A fantasy story featuring Shah Rukh Khan.
+The Batman,Movie,Comedy,2009,8.8,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Bandish Bandits,Series,Comedy,2011,6.1,"Leonardo DiCaprio, Tom Hardy",A comedy story featuring Leonardo DiCaprio.
+Forrest Gump,Movie,Crime,1998,6.1,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+The Batman,Movie,Crime,2019,9.1,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Friends,Series,Romance,2012,9.3,"Shah Rukh Khan, Deepika Padukone",A romance story featuring Shah Rukh Khan.
+House of the Dragon,Series,Mystery,1984,7.8,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Joker,Movie,Fantasy,1984,7.6,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+The Crown,Series,Thriller,1999,6.7,"Robert Downey Jr., Chris Evans",A thriller story featuring Robert Downey Jr..
+Black Panther,Movie,Biography,1993,6.4,"Robert Downey Jr., Chris Evans",A biography story featuring Robert Downey Jr..
+Doctor Strange,Movie,Romance,2006,9.0,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+The Boys,Series,Fantasy,2001,7.4,"Hrithik Roshan, Tiger Shroff",A fantasy story featuring Hrithik Roshan.
+Swades,Movie,Adventure,2005,8.9,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Dil Chahta Hai,Movie,Crime,2013,8.5,"Robert Downey Jr., Chris Evans",A crime story featuring Robert Downey Jr..
+Money Heist,Series,Romance,2002,7.5,"Bryan Cranston, Aaron Paul",A romance story featuring Bryan Cranston.
+Fight Club,Movie,Adventure,2008,6.7,"Hrithik Roshan, Tiger Shroff",A adventure story featuring Hrithik Roshan.
+Friends,Series,Horror,2005,6.8,"Aamir Khan, Kareena Kapoor",A horror story featuring Aamir Khan.
+Krrish,Movie,Thriller,1993,6.4,"Bryan Cranston, Aaron Paul",A thriller story featuring Bryan Cranston.
+Lagaan,Movie,Fantasy,1996,8.1,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+Avatar,Movie,Mystery,1982,6.0,"Robert Downey Jr., Chris Evans",A mystery story featuring Robert Downey Jr..
+Bandish Bandits,Series,Biography,2021,9.0,"Nawazuddin Siddiqui, Saif Ali Khan",A biography story featuring Nawazuddin Siddiqui.
+The Dark Knight,Movie,Mystery,2016,9.0,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Spider-Man,Movie,Biography,1988,8.1,"Ranbir Kapoor, Alia Bhatt",A biography story featuring Ranbir Kapoor.
+Dark,Series,Comedy,2011,9.5,"Robert Downey Jr., Chris Evans",A comedy story featuring Robert Downey Jr..
+Shershaah,Movie,Mystery,2014,7.8,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+The Office,Series,Horror,1981,8.5,"Aamir Khan, Kareena Kapoor",A horror story featuring Aamir Khan.
+Dil Chahta Hai,Movie,Sci-Fi,2021,9.4,"Christian Bale, Anne Hathaway",A sci-fi story featuring Christian Bale.
+The Dark Knight,Movie,Action,1983,8.6,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Wednesday,Series,Crime,2015,9.2,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Dark,Series,Thriller,1993,8.9,"Leonardo DiCaprio, Tom Hardy",A thriller story featuring Leonardo DiCaprio.
+Interstellar,Movie,Crime,2002,8.3,"Millie Bobby Brown, David Harbour",A crime story featuring Millie Bobby Brown.
+Spider-Man,Movie,Mystery,1996,7.3,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Breaking Bad,Series,Sci-Fi,1987,9.1,"Nawazuddin Siddiqui, Saif Ali Khan",A sci-fi story featuring Nawazuddin Siddiqui.
+The Crown,Series,Action,1980,7.8,"Robert Downey Jr., Chris Evans",A action story featuring Robert Downey Jr..
+Krrish,Movie,Fantasy,1995,7.4,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+The Dark Knight,Movie,Romance,2020,8.6,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Inception,Movie,Comedy,1994,9.1,"Aamir Khan, Kareena Kapoor",A comedy story featuring Aamir Khan.
+Doctor Strange,Movie,Mystery,2013,6.3,"Christian Bale, Anne Hathaway",A mystery story featuring Christian Bale.
+Andhadhun,Movie,Fantasy,2004,8.1,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+Dil Chahta Hai,Movie,Drama,2025,8.0,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Dark,Series,Fantasy,1987,8.5,"Aamir Khan, Kareena Kapoor",A fantasy story featuring Aamir Khan.
+Game of Thrones,Series,Biography,2010,8.9,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Lagaan,Movie,Fantasy,2013,8.5,"Christian Bale, Anne Hathaway",A fantasy story featuring Christian Bale.
+Game of Thrones,Series,Mystery,2022,6.3,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Krrish,Movie,Mystery,1984,8.4,"Shah Rukh Khan, Deepika Padukone",A mystery story featuring Shah Rukh Khan.
+Gladiator,Movie,Action,2015,8.8,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+The Family Man,Series,Comedy,2004,7.7,"Hrithik Roshan, Tiger Shroff",A comedy story featuring Hrithik Roshan.
+The Family Man,Series,Horror,1995,6.9,"Leonardo DiCaprio, Tom Hardy",A horror story featuring Leonardo DiCaprio.
+Kabir Singh,Movie,Action,2021,7.1,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Kabir Singh,Movie,Drama,2005,6.5,"Shah Rukh Khan, Deepika Padukone",A drama story featuring Shah Rukh Khan.
+Interstellar,Movie,Comedy,2001,6.4,"Bryan Cranston, Aaron Paul",A comedy story featuring Bryan Cranston.
+Gladiator,Movie,Drama,1993,7.1,"Bryan Cranston, Aaron Paul",A drama story featuring Bryan Cranston.
+The Shawshank Redemption,Movie,Mystery,1996,6.8,"Hrithik Roshan, Tiger Shroff",A mystery story featuring Hrithik Roshan.
+Andhadhun,Movie,Action,2021,9.0,"Hrithik Roshan, Tiger Shroff",A action story featuring Hrithik Roshan.
+The Crown,Series,Mystery,2020,8.1,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+Vikings,Series,Mystery,1988,7.9,"Bryan Cranston, Aaron Paul",A mystery story featuring Bryan Cranston.
+Titanic,Movie,Crime,2004,8.2,"Christian Bale, Anne Hathaway",A crime story featuring Christian Bale.
+Zindagi Na Milegi Dobara,Movie,Drama,1983,9.0,"Ranbir Kapoor, Alia Bhatt",A drama story featuring Ranbir Kapoor.
+Mirzapur,Series,Sci-Fi,1992,8.5,"Hrithik Roshan, Tiger Shroff",A sci-fi story featuring Hrithik Roshan.
+Dangal,Movie,Sci-Fi,1981,7.9,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Iron Man,Movie,Thriller,2018,8.4,"Christian Bale, Anne Hathaway",A thriller story featuring Christian Bale.
+Bhaag Milkha Bhaag,Movie,Thriller,2012,9.3,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+Pathaan,Movie,Action,2017,6.5,"Aamir Khan, Kareena Kapoor",A action story featuring Aamir Khan.
+Lagaan,Movie,Thriller,2005,7.2,"Ranbir Kapoor, Alia Bhatt",A thriller story featuring Ranbir Kapoor.
+The Dark Knight,Movie,Action,1994,7.1,"Bryan Cranston, Aaron Paul",A action story featuring Bryan Cranston.
+Dil Chahta Hai,Movie,Mystery,1986,6.1,"Millie Bobby Brown, David Harbour",A mystery story featuring Millie Bobby Brown.
+Friends,Series,Fantasy,1980,7.0,"Bryan Cranston, Aaron Paul",A fantasy story featuring Bryan Cranston.
+War,Movie,Action,1986,6.2,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+Forrest Gump,Movie,Drama,1999,8.4,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Article 15,Movie,Mystery,1985,7.5,"Aamir Khan, Kareena Kapoor",A mystery story featuring Aamir Khan.
+The Witcher,Series,Drama,1991,6.1,"Hrithik Roshan, Tiger Shroff",A drama story featuring Hrithik Roshan.
+Dangal,Movie,Action,1994,8.2,"Christian Bale, Anne Hathaway",A action story featuring Christian Bale.
+Shershaah,Movie,Biography,2013,8.8,"Millie Bobby Brown, David Harbour",A biography story featuring Millie Bobby Brown.
+Dune,Movie,Sci-Fi,1985,6.5,"Shah Rukh Khan, Deepika Padukone",A sci-fi story featuring Shah Rukh Khan.
+Queen,Movie,Romance,1988,6.3,"Aamir Khan, Kareena Kapoor",A romance story featuring Aamir Khan.
+Dil Chahta Hai,Movie,Action,1993,8.6,"Leonardo DiCaprio, Tom Hardy",A action story featuring Leonardo DiCaprio.
+Kabir Singh,Movie,Adventure,2019,6.2,"Bryan Cranston, Aaron Paul",A adventure story featuring Bryan Cranston.
+Bandish Bandits,Series,Romance,2024,8.9,"Robert Downey Jr., Chris Evans",A romance story featuring Robert Downey Jr..
+Avatar,Movie,Romance,2012,7.8,"Leonardo DiCaprio, Tom Hardy",A romance story featuring Leonardo DiCaprio.
+Dil Chahta Hai,Movie,Biography,2011,7.7,"Leonardo DiCaprio, Tom Hardy",A biography story featuring Leonardo DiCaprio.
+Joker,Movie,Biography,1989,7.9,"Millie Bobby Brown, David Harbour",A biography story featuring Millie Bobby Brown.
+Sacred Games,Series,Crime,2021,8.4,"Shah Rukh Khan, Deepika Padukone",A crime story featuring Shah Rukh Khan.
+House of the Dragon,Series,Action,2009,9.3,"Ranbir Kapoor, Alia Bhatt",A action story featuring Ranbir Kapoor.
+The Shawshank Redemption,Movie,Mystery,1995,8.2,"Leonardo DiCaprio, Tom Hardy",A mystery story featuring Leonardo DiCaprio.
